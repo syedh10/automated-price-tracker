@@ -1,1 +1,3 @@
-"# automated-price-tracker" 
+# eBay Automated Price Tracker 
+
+
